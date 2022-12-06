@@ -1,13 +1,13 @@
 .container-yellow {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+   flex-direction: row;
     
 }
 .box {
-    width: 23px;
-    height: 23px;
-    background-color: yellow;
-    margin-right: 10px;
+  width: 23px;
+  height: 23px;
+  background-color: yellow;
+  margin-right: 10px;
 }
 
 .blue {
