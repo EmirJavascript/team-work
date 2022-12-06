@@ -10,6 +10,10 @@
     margin-right: 10px;
 }
 
+.blue {
+  background-color: blue;
+}
+
 
 body {
   box-sizing: border-box;
