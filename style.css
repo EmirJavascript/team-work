@@ -1,0 +1,11 @@
+.colors {
+  display: flex;
+  flex-direction: column;
+}
+
+.green {
+  width: 23px;
+  height: 23px;
+  background-color: green;
+  float: left;
+}
