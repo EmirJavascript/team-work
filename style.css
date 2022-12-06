@@ -1,3 +1,9 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .colors {
   display: flex;
   flex-direction: column;
@@ -7,5 +13,10 @@
   width: 23px;
   height: 23px;
   background-color: green;
-  float: left;
+  margin-right: 15px;
+}
+
+.container-color {
+  display: flex;
+  flex-direction: row;
 }
